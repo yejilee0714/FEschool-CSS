@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url('./images/bg.png');
+    margin: 100px auto;
+}
+
+.wrapper{
+    
+    text-align: center;
+}
+
+
+.fox-img{
+    width: 400px;
+    margin: auto;
+}
+
+img{
+    vertical-align: top;
+}
+
+.fox-text{
+    width: 300px;
+    text-align: start;
+    margin: auto;
+    background: #985D31;
+    border-radius: 0px 0px 25px 25px;
+    box-shadow: 0px 10px 0px 0px #4D2B12;
+}
+h1, p{
+    padding: 12px 18px 0px;
+}
+h1{
+    color: white;
+}
+p{
+    color: #f5e1d2;
+    padding-bottom: 30px;
+    margin-bottom: 500px;
+}
+
